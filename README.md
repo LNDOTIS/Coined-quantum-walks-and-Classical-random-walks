@@ -14,5 +14,5 @@ We focus on:
 | File | Description |
 |------|-------------|
 | [`classical_walk_on_line.ipynb`](https://github.com/longnguyen0251/Coined-quantum-walks-and-Classical-random-walks/blob/main/classical_walk_on_line.ipynb) | Simulate classical random walks on a 1D line (both biased and symmetric cases). |
-| `coinedQW_hypercube.ipynb` | Simulate a coined quantum walk on a 5-dimensional hypercube. |
+| [`coinedQW_hypercube.ipynb`](https://github.com/longnguyen0251/Coined-quantum-walks-and-Classical-random-walks/blob/main/coinedQW_hypercube.ipynb) | Simulate a coined quantum walk on a 5-dimensional hypercube. |
 | `hypercube_qwsearch.ipynb` | Implement a quantum walk search on a 5-dimensional hypercube. |
