@@ -3,7 +3,9 @@ This repository contains simulations and visualizations of **coined quantum walk
 
 ***Note:*** The simulation for quantum walk is conducted by using **Hiperwalk** package with **HPC** support. The implementation for **coined quantum walks** is adapted from the quantum walk models available at: https://github.com/hiperwalk/hiperwalk/tree/master/examples/coined
 
-We focus on:
+You can install **Hiperwalk** package at: https://hiperwalk.org/docs/stable/install/index.html 
+
+This repository focuses on:
 - Classical random walks on line (biased and symmetric)
 - Coined quantum walks on a 5-dimensional hypercube
 - Quantum walk search on a 5-dimensional hypercube
