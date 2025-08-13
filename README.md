@@ -6,7 +6,7 @@ This repository contains simulations and visualizations of **coined quantum walk
 You can install **Hiperwalk** package at: https://hiperwalk.org/docs/stable/install/index.html 
 
 This repository focuses on:
-- Classical random walks on line (biased and symmetric)
+- Classical and Hadamard walks on a line
 - Coined quantum walks on a 5-dimensional hypercube
 - Quantum walk search on a 5-dimensional hypercube
 
