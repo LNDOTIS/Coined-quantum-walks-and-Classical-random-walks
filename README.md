@@ -1,9 +1,7 @@
 # Coined-quantum-walks-and-Classical-random-walks
 This repository contains simulations and visualizations of **coined quantum walks** and **classical random walk** within the scope of my bachelor's thesis.
 
-***Note:*** The simulation for quantum walk is conducted by using **Hiperwalk** package with **HPC** support. The implementation for **coined quantum walks** is adapted from the quantum walk models available at: https://github.com/hiperwalk/hiperwalk/tree/master/examples/coined
-
-You can install **Hiperwalk** package at: https://hiperwalk.org/docs/stable/install/index.html 
+***Note:*** The simulation for quantum walk is conducted by using **Hiperwalk** package with **HPC** support. You can install **Hiperwalk** package at: https://hiperwalk.org/docs/stable/install/index.html 
 
 This repository focuses on:
 - Classical and Hadamard walks on a line
